@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.90" 1759066544
+<REAPER_PROJECT 0.1 "5.90" 1759140598
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,7 +14,7 @@
   TIMEMODE 7 5 1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0.5
+  CURSOR 0.25
   ZOOM 2126.3411595184307 0 0
   VZOOMEX 12
   USE_REC_CFG 0
@@ -27,8 +27,8 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "D:\Git Repos\Misc\PROD229_Assignment_03\Sound Design\Footsteps\Footstep_WoodWithMetalGrate_Var_6.wav"
-  RENDER_FMT 0 2 48000
+  RENDER_FILE "D:\Git Repos\Misc\PROD229_Assignment_03\Sound Design\Footsteps\footstep_woodwithmetalgrate_var_6.wav"
+  RENDER_FMT 0 1 48000
   RENDER_1X 0
   RENDER_RANGE 4 0 30 2 1000
   RENDER_RESAMPLE 3 0 1
@@ -2119,7 +2119,7 @@
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 1 1
-    BUSCOMP 0 0
+    BUSCOMP 1 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
     SEL 0
@@ -2149,7 +2149,7 @@
     SEL 0
     REC 0 1024 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2195,7 +2195,7 @@
     SEL 0
     REC 0 1024 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2266,7 +2266,7 @@
     SEL 0
     REC 0 1024 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2312,7 +2312,7 @@
     SEL 0
     REC 0 1024 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2358,7 +2358,7 @@
     SEL 0
     REC 0 1024 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2404,7 +2404,7 @@
     SEL 0
     REC 0 1024 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2441,10 +2441,10 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 1 1
-    BUSCOMP 0 0
+    BUSCOMP 1 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
     SEL 0
@@ -2474,7 +2474,7 @@
     SEL 0
     REC 0 1024 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2520,7 +2520,7 @@
     SEL 0
     REC 0 1024 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2566,7 +2566,7 @@
     SEL 0
     REC 0 1024 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2609,10 +2609,10 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 1024 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2658,7 +2658,7 @@
     SEL 0
     REC 0 1024 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2701,10 +2701,10 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 1024 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2721,7 +2721,7 @@
       FADEIN 1 0.022274 0 1 0 0
       FADEOUT 1 0.076291 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {8279D496-22EE-4BE1-84A9-9C274C5C1889}
       IID 87
       NAME Footstep_WoodWithGrate_452.wav
@@ -2750,7 +2750,7 @@
     SEL 0
     REC 0 1024 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
