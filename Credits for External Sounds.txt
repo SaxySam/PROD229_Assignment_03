@@ -1,0 +1,5 @@
+"ChirpSounds_Sequence": bird chirps3.wav as by keweldog -- https://freesound.org/s/182796/ -- License: Creative Commons 0
+
+"ChirpSounds_Intermittent": Sound Effect by Soul_Serenity_Sounds from Pixabay - https://pixabay.com/sound-effects/birds-chirping-241045/ -- Free for Use
+
+"DuckSounds_Sequence": 10 Ducks quacking in the distance; open space.wav by juanlopz08 -- https://freesound.org/s/389495/ -- License: Attribution 3.0
