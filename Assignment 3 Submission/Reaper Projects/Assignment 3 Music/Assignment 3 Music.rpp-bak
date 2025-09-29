@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.90" 1759140002
+<REAPER_PROJECT 0.1 "5.90" 1759141697
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0.625
-  ZOOM 69.44444444444716 0 0
+  CURSOR 3.75
+  ZOOM 137.5837620774343 417 0
   VZOOMEX 4
   USE_REC_CFG 0
   RECMODE 1
@@ -74,7 +74,7 @@
     DOCKED 0
     BYPASS 0 0 0
     <JS loser/masterLimiter ""
-      -3.000000 200.000000 100.000000 0.000000 250.000000 -4.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      -3.000000 200.000000 100.000000 0.000000 250.000000 -2.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     >
     FLOATPOS 0 0 0 0
     FXID {96FFA60E-120B-4AB6-89C8-3B38B5ABCFF3}
@@ -2168,7 +2168,7 @@
     PEAKCOL 16793600
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.63095734448019 0 -1 -1 1
+    VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 2 0
     IPHASE 0
     ISBUS 1 1
@@ -2254,7 +2254,7 @@
     PEAKCOL 20987904
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.56234132519035 0 -1 -1 1
+    VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -2344,7 +2344,7 @@
     PEAKCOL 20987904
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.56234132519035 0 -1 -1 1
+    VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -2766,7 +2766,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 1024 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 1 0
@@ -2841,14 +2841,14 @@
     PEAKCOL 16777471
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.63095734448019 0 -1 -1 1
+    VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 2 0
     IPHASE 0
     ISBUS 1 1
     BUSCOMP 1 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 1024 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
